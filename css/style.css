@@ -1,0 +1,20 @@
+html,
+body {
+	font-family: 'Josefin Sans', sans-serif;
+
+	background: rgb(255, 210, 51);
+	color: #FFF;
+
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.app {
+	margin: 180px 160px 0;
+
+	color: #111;
+}
+
+.app h1 {
+	font-size: 42px;
+}
